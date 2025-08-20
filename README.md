@@ -162,7 +162,7 @@ It is built step by step using **AWS EC2, RDS, ALB, ASG, CloudFront, Route 53, W
 
 ---
 
-## 📸 Screenshots (Replace with your own)
+## 📸 Screenshots 
 - [VPC & Subnets Screenshot]  
 - [Security Groups Screenshot]  
 - [RDS Setup Screenshot]  
