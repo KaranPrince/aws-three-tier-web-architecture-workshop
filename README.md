@@ -177,7 +177,6 @@ It is built step by step using **AWS EC2, RDS, ALB, ASG, CloudFront, Route 53, W
 ---
 
 ## 🎯 Conclusion
-This project implements a **fully functional AWS 3-Tier Architecture** with best practices in networking, scaling, security, monitoring, and cost control.  
-It’s a solid **DevOps & Cloud portfolio project**, demonstrating hands-on AWS expertise.
+This project implements a **fully functional AWS 3-Tier Architecture** with best practices in networking, scaling, security, monitoring, and cost control.
 
 ---
