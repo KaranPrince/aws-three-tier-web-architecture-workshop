@@ -16,7 +16,7 @@ It is built step by step using **AWS EC2, RDS, ALB, ASG, CloudFront, Route 53, W
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](https://github.com/aws-samples/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch3D.png)
+![Architecture Diagram](https://github.com/KaranPrince/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch3D.png)
 
 ---
 
